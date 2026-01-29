@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Gallery - GDG PRMITR',
     description: 'View photos and highlights from GDG PRMITR events and activities.',
-    url: 'https://gdg.is-local.org/gallery',
+    url: 'https://codingclub.is-local.org/gallery',
   },
 };
 

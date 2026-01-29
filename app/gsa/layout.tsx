@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'GSA Team - Google Student Ambassadors PRMITR',
     description: 'Meet the GSA PRMITR team - Google Student Ambassadors leading AI and tech initiatives.',
-    url: 'https://gdg.is-local.org/gsa',
+    url: 'https://codingclub.is-local.org/gsa',
   },
 };
 

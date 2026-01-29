@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Events - GDG PRMITR',
     description: 'Join us for exciting tech events, workshops, and hackathons at GDG PRMITR, Amravati.',
-    url: 'https://gdg.is-local.org/events',
+    url: 'https://codingclub.is-local.org/events',
   },
 };
 

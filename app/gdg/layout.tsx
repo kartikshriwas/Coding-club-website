@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'GDG Team - Google Developer Group PRMITR',
     description: 'Meet the talented team behind GDG PRMITR - leading tech innovation at Prof. Ram Meghe Institute.',
-    url: 'https://gdg.is-local.org/gdg',
+    url: 'https://codingclub.is-local.org/gdg',
   },
 };
 

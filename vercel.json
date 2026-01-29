@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "gdg.is-local.org"
+        }
+      ],
+      "destination": "https://codingclub.is-local.org/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "gsa.is-local.org"
+        }
+      ],
+      "destination": "https://codingclub.is-local.org/:path*",
+      "permanent": true
+    }
+  ]
+}

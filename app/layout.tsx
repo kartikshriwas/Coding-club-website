@@ -106,12 +106,12 @@ const GoogleSans = localFont({
 
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://gdg.is-local.org'),
+  metadataBase: new URL('https://codingclub.is-local.org'),
   title: 'Coding club',
   description: 'A coding club for everyone, by everyone. where you can learn, share and collaborate on projects.',
   // Canonical URL - tells search engines this is the primary domain
   alternates: {
-    canonical: 'https://gdg.is-local.org',
+    canonical: 'https://codingclub.is-local.org',
   },
   keywords: [
     'GDG PRMITR',
@@ -172,7 +172,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_IN',
-    url: 'https://gdg.is-local.org',
+    url: 'https://codingclub.is-local.org',
     siteName: 'GDG PRMITR - Google Developer Group',
     title: 'GDG PRMITR - Google Developer Group at Prof. Ram Meghe Institute of Technology',
     description: 'Google Developer Group (GDG) at Prof. Ram Meghe Institute of Technology and Research (PRMITR), Badnera, Amravati. Join our coding club for workshops, hackathons, and tech events.',
@@ -195,7 +195,7 @@ export const metadata: Metadata = {
     google: 'bea114f22caf30f3',
   },
   alternates: {
-    canonical: 'https://gdg.is-local.org',
+    canonical: 'https://codingclub.is-local.org',
   },
 }
 

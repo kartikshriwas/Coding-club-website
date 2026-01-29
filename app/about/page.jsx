@@ -7,7 +7,7 @@ export const metadata = {
   openGraph: {
     title: 'About Us - GDG PRMITR Coding Club',
     description: 'Learn about GDG PRMITR Coding Club - our vision, mission, and tech communities at Prof. Ram Meghe Institute of Technology and Research.',
-    url: 'https://gdg.is-local.org/about',
+    url: 'https://codingclub.is-local.org/about',
     images: ['/Coding-Club.png'],
   },
 };

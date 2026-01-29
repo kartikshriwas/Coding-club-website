@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://gdg.is-local.org'
+  const baseUrl = 'https://codingclub.is-local.org'
   
   return [
     {

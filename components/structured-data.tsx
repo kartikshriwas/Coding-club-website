@@ -10,8 +10,8 @@ export default function StructuredData() {
       "PRMITR Coding Club",
       "Mitra Coding Club"
     ],
-    "url": "https://gdg.is-local.org",
-    "logo": "https://gdg.is-local.org/logo/logo-gdg.png",
+    "url": "https://codingclub.is-local.org",
+    "logo": "https://codingclub.is-local.org/logo/logo-gdg.png",
     "description": "Google Developer Group (GDG) at Prof. Ram Meghe Institute of Technology and Research (PRMITR), Badnera, Amravati. Official coding club organizing workshops, hackathons, and tech events.",
     "address": {
       "@type": "PostalAddress",
@@ -41,10 +41,10 @@ export default function StructuredData() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "GDG PRMITR",
-    "url": "https://gdg.is-local.org",
+    "url": "https://codingclub.is-local.org",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://gdg.is-local.org/events?search={search_term_string}",
+      "target": "https://codingclub.is-local.org/events?search={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };
@@ -57,19 +57,19 @@ export default function StructuredData() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://gdg.is-local.org"
+        "item": "https://codingclub.is-local.org"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "About",
-        "item": "https://gdg.is-local.org/about"
+        "item": "https://codingclub.is-local.org/about"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Events",
-        "item": "https://gdg.is-local.org/events"
+        "item": "https://codingclub.is-local.org/events"
       }
     ]
   };
