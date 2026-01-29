@@ -1,0 +1,2 @@
+# https://gdg.is-local.org/sitemap.xml
+Sitemap: https://gdg.is-local.org/sitemap.xml

@@ -1,0 +1,21 @@
+# *
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://gdg.is-local.org/sitemap.xml
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+
+# DuckDuckGo Bot
+User-agent: DuckDuckBot
+Allow: /
+
+# Host
+Host: https://gdg.is-local.org

@@ -11,6 +11,27 @@ const nextConfig = {
   reactStrictMode: true,
   compress: true,
   swcMinify: true,
+  // SEO optimizations
+  trailingSlash: false,
+  generateEtags: true,
+  // Headers for SEO
+  async headers() {
+    return [
+      {
+        source: '/:path*',
+        headers: [
+          {
+            key: 'X-DNS-Prefetch-Control',
+            value: 'on'
+          },
+          {
+            key: 'X-Frame-Options',
+            value: 'SAMEORIGIN'
+          },
+        ],
+      },
+    ];
+  },
   images: {
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
     imageSizes: [16, 32, 48, 64, 96, 128, 256],

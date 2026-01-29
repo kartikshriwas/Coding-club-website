@@ -3,6 +3,8 @@
 import React from "react";
 import MemberCard from "@/components/member.card.component";
 
+// GDG PRMITR Team - Google Developer Group at Prof. Ram Meghe Institute of Technology and Research
+
 export default function GdgCodingClubPage() {
   const leads = [
     {

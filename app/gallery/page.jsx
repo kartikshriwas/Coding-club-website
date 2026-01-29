@@ -4,6 +4,9 @@ import { cn } from "@/lib/utils";
 import Image from "next/image";
 import React, { useState, useEffect } from "react";
 
+// Note: For client components, metadata is handled in layout or parent
+// This page showcases GDG PRMITR events and activities
+
 const events = [
   {
     image: "/gallery/all-gdg-members-in-seminar-hall.jpeg",

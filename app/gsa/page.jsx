@@ -3,6 +3,8 @@
 import React from "react";
 import MemberCard from "@/components/member.card.component";
 
+// GSA PRMITR Team - Google Student Ambassadors at Prof. Ram Meghe Institute of Technology and Research
+
 // Data for the team members
 const gsaLeads = [
   {

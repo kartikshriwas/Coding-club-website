@@ -1,5 +1,17 @@
 import Image from "next/image";
 
+export const metadata = {
+  title: 'About Us - GDG PRMITR Coding Club',
+  description: 'Learn about GDG PRMITR Coding Club at Prof. Ram Meghe Institute of Technology and Research, Badnera, Amravati. Our vision, mission, and communities including GDG, GSA, Cisco Academy, and NVIDIA.',
+  keywords: ['About GDG PRMITR', 'PRMITR Coding Club', 'GDG PRMIT&R About', 'Mitra Coding Club', 'Prof Ram Meghe Institute', 'GDG Amravati', 'Coding Club Vision', 'Tech Community PRMITR'],
+  openGraph: {
+    title: 'About Us - GDG PRMITR Coding Club',
+    description: 'Learn about GDG PRMITR Coding Club - our vision, mission, and tech communities at Prof. Ram Meghe Institute of Technology and Research.',
+    url: 'https://gdg.is-local.org/about',
+    images: ['/Coding-Club.png'],
+  },
+};
+
 export default function AboutPage() {
 const aboutData = {
 	hero: {
