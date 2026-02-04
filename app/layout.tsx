@@ -192,8 +192,9 @@ export const metadata: Metadata = {
     images: ['/logo/logo-gdg.png'],
   },
   verification: {
-    google: 'bea114f22caf30f3',
+    google: "aqmIRH5u17mF_jctAfA-tiMSjarVZEavfXhiSfbhixU",
   },
+
   alternates: {
     canonical: 'https://codingclub.is-local.org',
   },
